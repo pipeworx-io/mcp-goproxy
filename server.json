@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/goproxy",
   "title": "Goproxy",
-  "description": "Go module proxy — module info, versions, go.mod",
-  "version": "0.1.0",
+  "description": "Go Module Proxy MCP.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/goproxy",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-goproxy",
