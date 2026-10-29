@@ -1,0 +1,69 @@
+[
+  {
+    "name": "module",
+    "description": "Most recent version + metadata.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "module_path": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "module_path"
+      ]
+    }
+  },
+  {
+    "name": "versions",
+    "description": "List available versions.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "module_path": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "module_path"
+      ]
+    }
+  },
+  {
+    "name": "version_info",
+    "description": "Version metadata.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "module_path": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "module_path",
+        "version"
+      ]
+    }
+  },
+  {
+    "name": "go_mod",
+    "description": "go.mod content.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "module_path": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "module_path"
+      ]
+    }
+  }
+]
