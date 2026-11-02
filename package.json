@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-goproxy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Go Module Proxy MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "goproxy",
     "gatewaySlug": "goproxy",
-    "sourceHash": "v1-c622048f3078a96237f7991a6f69322f5a3581edb11628df61ca017e9b6fffa9",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-cd0baed7fcf93d69f4da8d1b6761c2831e37e842571d511ebfb886b0f4b4e504",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }

@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/goproxy",
   "title": "Goproxy",
   "description": "Go Module Proxy MCP.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/goproxy",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-goproxy",
